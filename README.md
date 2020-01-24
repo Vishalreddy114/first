@@ -16,6 +16,7 @@ My name is Vishal Reddy Vennavaram and Iam from India.Currently,I am a graduate 
 
 ## My University : NorthWest Missouri State University
 ![NW](https://www.kttn.com/wp-content/uploads/2017/04/Northwest-Missouri-State-University.jpg)
+(https://static.timesofisrael.com/www/uploads/2018/09/iStock-808337406-640x400.jpg)
 
 ## I wish to be an:
 ![Dream](https://static.timesofisrael.com/www/uploads/2018/09/iStock-808337406-640x400.jpg)
@@ -28,5 +29,5 @@ My name is Vishal Reddy Vennavaram and Iam from India.Currently,I am a graduate 
 
 -[Northwest](https://www.kttn.com/wp-content/uploads/2017/04/Northwest-Missouri-State-University.jpg)
 
--[Dream](https://static.timesofisrael.com/www/uploads/2018/09/iStock-808337406-640x400.jpg)
+
 
