@@ -13,11 +13,19 @@ My name is Vishal Reddy Vennavaram and Iam from India.Currently,I am a graduate 
 * Basics of Python
 ## My favourite game:
 ![Badminton](https://img.grouponcdn.com/deal/CTvmRysPcgjeb4HauC5/DR-2048x1229/v1/c700x420.jpg)
+
 ## My University:
 ![NW](https://www.kttn.com/wp-content/uploads/2017/04/Northwest-Missouri-State-University.jpg)
+
+## I wish to be an:
+![Dream](https://static.timesofisrael.com/www/uploads/2018/09/iStock-808337406-640x400.jpg)
+
 ## You can find me at:
 [LinkedIn](https://www.linkedin.com/in/vishalreddyvennavaram/)
-## Sources for these images are :
-https://img.grouponcdn.com/deal/CTvmRysPcgjeb4HauC5/DR-2048x1229/v1/c700x420.jpg
 
-https://www.kttn.com/wp-content/uploads/2017/04/Northwest-Missouri-State-University.jpg
+## Sources for these images are :
+(https://img.grouponcdn.com/deal/CTvmRysPcgjeb4HauC5/DR-2048x1229/v1/c700x420.jpg)
+
+(https://www.kttn.com/wp-content/uploads/2017/04/Northwest-Missouri-State-University.jpg)
+
+(https://static.timesofisrael.com/www/uploads/2018/09/iStock-808337406-640x400.jpg)
