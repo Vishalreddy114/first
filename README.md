@@ -35,9 +35,9 @@ My name is Vishal Reddy Vennavaram and Iam from India.Currently,I am a graduate 
 
 ## 4.Image Sources:
 
-* [Game](https://img.grouponcdn.com/deal/CTvmRysPcgjeb4HauC5/DR-2048x1229/v1/c700x420.jpg)
-* [Northwest](https://www.kttn.com/wp-content/uploads/2017/04/Northwest-Missouri-State-University.jpg)
-* [Entrepreneurship](https://static.timesofisrael.com/www/uploads/2018/09/iStock-808337406-640x400.jpg)
+- [Game](https://img.grouponcdn.com/deal/CTvmRysPcgjeb4HauC5/DR-2048x1229/v1/c700x420.jpg)
+- [Northwest](https://www.kttn.com/wp-content/uploads/2017/04/Northwest-Missouri-State-University.jpg)
+- [Entrepreneurship](https://static.timesofisrael.com/www/uploads/2018/09/iStock-808337406-640x400.jpg)
 
 
 
