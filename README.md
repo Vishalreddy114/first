@@ -6,11 +6,11 @@ My name is Vishal Reddy Vennavaram and Iam from India.Currently,I am a graduate 
 3. Travelling
 4. Browsing Internet 
 ## Skills 
-* C
-* Java
-* Data Structures
-* SQL
-* Basics of Python
+ * C
+ * Java
+ * Data Structures
+ * SQL
+ * Basics of Python
 ## 1. My favourite game:
 1.1 [About Badminton](https://en.wikipedia.org/wiki/Badminton)
 
