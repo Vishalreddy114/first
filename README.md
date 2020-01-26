@@ -16,12 +16,13 @@ My name is Vishal Reddy Vennavaram and Iam from India.Currently,I am a graduate 
 
 
 ## 2.My University : NorthWest Missouri State University:
+2. [About University](https://www.nwmissouri.edu/)
 ![NW](https://www.kttn.com/wp-content/uploads/2017/04/Northwest-Missouri-State-University.jpg)
 
 
 
 ## 3. I wish to be an: 
-1. [Enterprenuer](https://en.wikipedia.org/wiki/Entrepreneurship)
+3. [Enterprenuer](https://en.wikipedia.org/wiki/Entrepreneurship)
 
 ![Dream](https://static.timesofisrael.com/www/uploads/2018/09/iStock-808337406-640x400.jpg)
 
