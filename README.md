@@ -12,11 +12,13 @@ My name is Vishal Reddy Vennavaram and Iam from India.Currently,I am a graduate 
 * SQL
 * Basics of Python
 ## 1. My favourite game:
+1.1 [About Badminton](https://en.wikipedia.org/wiki/Badminton)
+
 ![Badminton](https://img.grouponcdn.com/deal/CTvmRysPcgjeb4HauC5/DR-2048x1229/v1/c700x420.jpg)
 
 
 ## 2.My University : NorthWest Missouri State University:
-2. [About University](https://www.nwmissouri.edu/)
+2.1 [About University](https://www.nwmissouri.edu/)
 
 ![NW](https://www.kttn.com/wp-content/uploads/2017/04/Northwest-Missouri-State-University.jpg)
 
